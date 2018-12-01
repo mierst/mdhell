@@ -3,3 +3,6 @@ secrets/*
 
 # There's a file, nobody should be touching it anymore so let's ignore any changes
 auth.json
+
+# let's ignore editing files
+*.swp
