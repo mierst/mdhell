@@ -1,8 +1,0 @@
-{
-    "name": "mdhell",
-    "version": "0.0.1",
-    "description": "A bot intended to aid in moderating the hell that is managing multiple discords.",
-    "main": "mdhell.js",
-    "author": "Mierst",
-    "dependencies": {}
-}

@@ -1,6 +1,5 @@
 # Local storage of secrets shouldn't be committed
 secrets/*
-token
 
 # There's a file, nobody should be touching it anymore so let's ignore any changes
 auth.json
